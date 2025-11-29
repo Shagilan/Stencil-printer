@@ -1,4 +1,4 @@
-<img width="490" height="742" alt="image" src="https://github.com/user-attachments/assets/c283d615-bb9e-4704-a9ac-40094adc17fc" /># Aim:
+# Aim:
 To study the operation and performance of a semi-automatic stencil printer used in SMT assembly and to evaluate its effectiveness in achieving accurate and consistent solder paste deposition.
 
 # Apparatus required:
