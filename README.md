@@ -1,4 +1,4 @@
-# Aim:
+<img width="490" height="742" alt="image" src="https://github.com/user-attachments/assets/c283d615-bb9e-4704-a9ac-40094adc17fc" /># Aim:
 To study the operation and performance of a semi-automatic stencil printer used in SMT assembly and to evaluate its effectiveness in achieving accurate and consistent solder paste deposition.
 
 # Apparatus required:
@@ -57,10 +57,12 @@ The major function of a semi-automatic PCB stencil printer is to ensure precise,
 
 ## Bare Board:
 
+<img width="490" height="742" alt="image" src="https://github.com/user-attachments/assets/309fc93b-dff4-402e-a6e0-a6b19dd8a7e1" />
 
 ## Bare board with soldering Paste:
+<img width="505" height="717" alt="image" src="https://github.com/user-attachments/assets/e14885e9-e096-49e9-a8e4-0edb86a7ef61" />
 
 
 
 # Result:
-
+THUS THE STENCIL PRINTER IS SUCCESSFULLY PRINT THE BARE BOARD WITH SOLDERING PAST
